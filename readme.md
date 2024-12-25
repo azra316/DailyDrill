@@ -1,5 +1,5 @@
 # DailyDrill
-
+## The only way to learn to code is to write a lot of code
 Welcome to the **DailyDrill** repository!  
 DailyDrill—a collection of small, bite-sized JavaScript projects designed to sharpen my skills and make coding fun! These are quick experiments and exercises I work on to learn new concepts, try out cool features, and tackle different challenges.
 
